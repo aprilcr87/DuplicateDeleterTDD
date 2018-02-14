@@ -36,7 +36,6 @@ public class IntegerDuplicateDeleterBetterTest {
     public void extractIndexValueAndAppendToOutput(){
         // Given
         Integer[] arrayOfNumber = {1,2,1,1,1,2,2};
-
         IntegerDuplicateDeleter integerDuplicateDeleter = new IntegerDuplicateDeleter(arrayOfNumber);
 
         //When
